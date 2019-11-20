@@ -28,9 +28,9 @@
   },
   "dependencies": {
     "lodash-es": "^4.17.11",
-    "vega": "^3.3.1",
-    "vega-lite": "^2.6.0",
-    "vue": "^2.5.17"
+    "vega": "^5.8.1",
+    "vega-lite": "^3.4.0",
+    "vue": "^2.6.10"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
